@@ -123,3 +123,7 @@ dist/protocol.schema.json
 # Synthing
 **/.stfolder/
 .dev-state
+
+# YourCrew custom extensions (managed in separate monorepo)
+extensions/yourcrew-bridge
+extensions/knowhow-rag
